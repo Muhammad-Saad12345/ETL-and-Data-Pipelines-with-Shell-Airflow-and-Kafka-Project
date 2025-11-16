@@ -40,15 +40,16 @@ Runs the entire pipeline through an Airflow DAG using BashOperator.
 ---
 
 # Screenshots
-![Screenshot](Project%20(Build%20ETL%20Data%20Pipelines%20with%20BashOperator%20using%20Apache%20Airflow)/Project%20ScreenShoots/task_pipeline.jpg)
 
 ## Pipeline Flow
+![Screenshot](Project%20(Build%20ETL%20Data%20Pipelines%20with%20BashOperator%20using%20Apache%20Airflow)/Project%20ScreenShoots/task_pipeline.jpg)
 
 ## Airflow Dashboard
+![Screenshot](Project%20(Build%20ETL%20Data%20Pipelines%20with%20BashOperator%20using%20Apache%20Airflow)/Project%20ScreenShoots/gad_runs.jpg)
 
 ## DAG Graph
+![Screenshot](Project%20(Build%20ETL%20Data%20Pipelines%20with%20BashOperator%20using%20Apache%20Airflow)/Project%20ScreenShoots/dag_tasks.jpg)
 
-## Shell Script Output
 
 ---
 
